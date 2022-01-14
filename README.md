@@ -14,7 +14,7 @@
 
 <h2> 3.  php artisan key:generate   (por la consola)  </h2>
 
-
+<br><br>
 
 
 ## About Laravel
